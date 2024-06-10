@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "PPNeueMontreal";
+	src: url("/static/PPNeueMontreal.ttf")
+}
+
+
+* {
+	font-family: "PPNeueMontreal";
+}
