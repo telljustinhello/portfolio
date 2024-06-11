@@ -1,9 +1,23 @@
 @font-face {
 	font-family: "PPNeueMontreal";
-	src: url("/static/PPNeueMontreal.ttf")
+	src: url("/static/PPNeueMontreal.ttf");
+}
+
+
+@font-face {
+	font-family: "PPNeueMontrealMono";
+	src: url("/static/PPNeuMontrealMono.ttf");
 }
 
 
 * {
 	font-family: "PPNeueMontreal";
+}
+
+pre {
+	tab-size: 4;
+}
+
+code {
+	font-family: "PPNeueMontrealMono";
 }
