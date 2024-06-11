@@ -7,6 +7,11 @@
 	<title>{{title}}</title>
 </head>
 <body>
+	<nav>
+		<a href="/">Home</a>
+		<a href="/binary-search">Binary Search</a>
+		<a href="/big-o-notation">Big O Notation</a>
+	</nav>
 	{{!base}}
 </body>
 </html>

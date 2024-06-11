@@ -18,5 +18,11 @@ def _get():
 	pass
 
 
+@bottle.get("/big-o-notation")
+@bottle.view("big_o_notation")
+def _get():
+	pass
+
+
 if __name__ == "__main__":
 	bottle.run(port=8000, reloader=True, debug=True)
