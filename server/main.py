@@ -24,5 +24,11 @@ def _get():
 	pass
 
 
+@bottle.get("/selection-sort")
+@bottle.view("selection_sort")
+def _get():
+	pass
+
+
 if __name__ == "__main__":
 	bottle.run(port=8000, reloader=True, debug=True)
