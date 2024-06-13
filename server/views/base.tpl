@@ -12,6 +12,7 @@
 		<a href="/binary-search">Binary Search</a>
 		<a href="/big-o-notation">Big O Notation</a>
 		<a href="/selection-sort">Selection Sort</a>
+		<a href="/stack">Stack</a>
 	</nav>
 	{{!base}}
 </body>
